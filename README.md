@@ -18,4 +18,4 @@
 &#9679; Оперативная память: 2 КБ<br />
 &#9679; Установленный MiSide<br />
 
-[Скачать игру](https://youtube.com/@pseudolime)<br />
+[Скачать игру](https://github.com/maneggs/Sekiro-2-Gays-Die-Twice/releases/tag/Release)<br />
